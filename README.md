@@ -114,7 +114,5 @@ None at the moment!
 
 # 📜 Closing Statements
 
-Liked the project? I know you did! Support me, **drop a star!** <br>
-Additionally, you can donate to me! See my [donations page](https://github.com/dekrypted#--donations--), always appreciated!
-
+Liked the project? Go to my website [Website:   ]
 Thank you for choosing my tools! 🙏
